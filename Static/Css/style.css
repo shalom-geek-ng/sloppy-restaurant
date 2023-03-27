@@ -228,7 +228,7 @@ form input {
 }
 
 form input[type=submit] {
-  background-color: goldenrod;
+  background-color: goldenrod !important;
   color: white;
   padding: 12px 0px;
 }
