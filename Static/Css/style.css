@@ -199,7 +199,7 @@ span {
 }
 
 .colorBtn {
-  color: purple !important;
+  color: goldenrod !important;
 }
 
 .bigResturant {
@@ -228,7 +228,7 @@ form input {
 }
 
 form input[type=submit] {
-  background-color: purple;
+  background-color: goldenrod;
   color: white;
   padding: 12px 0px;
 }
